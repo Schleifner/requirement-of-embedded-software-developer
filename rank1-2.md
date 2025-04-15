@@ -44,16 +44,11 @@ For projects related to computer organization principles and operating system pr
 
 | Category                         | Items                                                                     | Weight | Score |
 | -------------------------------- | ------------------------------------------------------------------------- | ------ | ----- |
-| Compilation                      | Scanner 词法分析器                                                        | 1      |       |
-|                                  | Parser 语法分析器                                                         | 1      |       |
-|                                  | Context-Sensitive Analysis 上下文相关分析（语义分析）                     | 1      |       |
-|                                  | Procedure Abstraction 函数调用设计 (ABI，Linker, Memory Manager)          | 1      |       |
-|                                  | Code Shape 1 代码形式 1 (Arithmetic, for, if, switch)                     | 1      |       |
-|                                  | Code Shape 2 代码形式 2 (Runtime Memory Layout, Object Module, Reference) | 1      |       |
-|                                  | Data Flow Analysis (Domination, Fixed Point Algorithm, SSA, Call Graph)   | 1      |       |
-|                                  | Instruction Select                                                        | 1      |       |
-|                                  | Instruction Scheduler                                                     | 1      |       |
-|                                  | Register Allocation                                                       | 1      |       |
+| Embedded Development Practice    | Basic I/O Control (GPIO, UART, SPI, I2C)                                  | 2      |       |
+|                                  | Simple Bootloader Implementation for MCU                                  | 2      |       |
+|                                  | Operating System Porting                                                  | 2      |       |
+|                                  | Device Driver Development                                                 | 2      |       |
+|                                  | Embedded Performance Optimization                                         | 2      |       |
 | Computer organization principles | Instruction fetch and decoding                                            | 1      |       |
 |                                  | Cache                                                                     | 1      |       |
 |                                  | CPU pipeline                                                              | 1      |       |
@@ -68,12 +63,7 @@ For projects related to computer organization principles and operating system pr
 |                                  | Context switching                                                         | 1      |       |
 |                                  | Characteristics of Real-Time Operating Systems                            | 1      |       |
 |                                  | socket and network                                                        | 0.3    |       |
-| Algorithms and Data Structures   | Stack                                                                     | 0      |       |
-|                                  | Dynamic length array                                                      | 0      |       |
-|                                  | Linked list                                                               | 0      |       |
-|                                  | Hash table                                                                | 0      |       |
-|                                  | Binary tree                                                               | 0      |       |
-|                                  | Directed Acyclic Graph                                                    | 0      |       |
+
 
 ### How to convert score level to 100-point
 
