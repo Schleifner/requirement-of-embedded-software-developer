@@ -2,7 +2,7 @@
 
 This document provides the technical references and scoring criteria necessary to achieve Level 2. Currently, the scores can only serve as qualitative references and cannot be used to determine promotion standards based on the scores.
 
-## LV2 requires developer with `final point >= 31`.
+## LV2 requires developer with `final point >= 21`.
 
 ## Score Criteria
 
