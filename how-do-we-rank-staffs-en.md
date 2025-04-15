@@ -44,6 +44,10 @@ LV4 can be considered as a key candidate for maintainer training.
   - Able to read and understand the schematic diagram and datasheet of the development board
   - Able to write simple test programs to verify the functionality of the development board
   - Understanding the performance limitations and applicable scenarios of the development board
+- Have a deeper understanding of C++, including:
+  - Understanding and ability to apply object-oriented programming principles
+  - Familiarity with C++ memory management mechanisms and resource management techniques (RAII principles, smart pointers, etc.)
+  - Understanding and ability to avoid common pitfalls in C++ in embedded environments (such as dynamic memory allocation, exception handling, etc.)
 - Proficient in using C/C++ for embedded system development.
 - Able to proficiently use embedded development environments, including IDEs, compilers, debuggers, etc.
 - Proficient in using version control tools like git for team code collaboration.
@@ -53,7 +57,7 @@ LV4 can be considered as a key candidate for maintainer training.
 
 ## LV1
 
-- Proficient in at least one programming language, must be proficient in C/C++. (Here, "proficient" means knowing the basic concept of function calls, how to compile and run source code, and being able to write a program that reads, sorts, and outputs an array in a specified format.)
+- Proficient in at least one programming language, must be proficient in C/C++.
 - Basic Python/Bash scripting skills. (Here, "basic" means being able to fully understand a given script through Google or books.)
 - Able to complete function-level development under mentor guidance, read code independently, and understand local code logic.
 - Capable of completing project testing, experimental data collection and cleaning, and document report writing under guidance.
